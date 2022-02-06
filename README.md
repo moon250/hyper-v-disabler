@@ -1,5 +1,5 @@
 # Hyper-V Hypervisor enabler / disabler
-This little cli can help you desactivating or activating Hyper-V (HV) Hypervisor, to run a vm with better performances for example.
+This little cli can help you desactivating or activating Hyper-V Hypervisor, to run a vm with better performances for example.
 
 ## Usage :
 ```
