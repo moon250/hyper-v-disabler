@@ -3,7 +3,7 @@ This little cli can help you desactivating or activating Hyper-V Hypervisor, to 
 Add to PATH to access it anywhere !
 
 ## Usage :
-```
+```bat
 hyperv
 // Usage: "hyperv <disable|enable>"
 
@@ -12,3 +12,4 @@ hyperv disable
 
 hyperv enable
 // Enabling Hyper-V and restarting...
+```
